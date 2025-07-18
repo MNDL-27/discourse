@@ -22,7 +22,7 @@
   "dependencies": {
     "clean-base-url": "^1.0.0",
     "discourse-plugins": "1.0.0",
-    "express": "^4.19.2",
+    "express": "^4.20.0",
     "html-entities": "^2.3.3",
     "jsdom": "^21.1.1",
     "node-fetch": "^3.3.1"
